@@ -5,3 +5,8 @@ Horretarako, Blogger edozein orri editatzean HTML ikuspegia aukeratu eta zure pr
 <p>ireki sinboloa <b>pre class="brush:pascal;"</b> itxi sinboloa</p>
 <p>Programaren Kodea</p>
 <p>ireki sinboloa <b>/pre</b> itxi sinboloa</p>
+
+
+<p><pre class="brush:pascal;"></p>
+<p>Programaren Kodea</p>
+<p></pre></p>
