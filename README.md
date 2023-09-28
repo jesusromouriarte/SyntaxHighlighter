@@ -4,5 +4,6 @@ Horretarako, Blogger edozein orri editatzean HTML ikuspegia aukeratu eta zure pr
 
 <p>marka irekitzeko sinboloa <b>pre class="brush:pascal;"</b> marka ixteko sinboloa</p>
 <pre class="brush:pascal;">
-<p>Programaren Kodea</p></pre>
+<p><br />Programaren Kodea</p>
+</pre>
 <p>marka irekitzeko sinboloa <b>/pre</b> marka ixteko sinboloa</p>
