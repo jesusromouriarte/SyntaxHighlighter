@@ -2,11 +2,8 @@
 <p>Honen helburu nagusia Blogger orrialdeak aberastea da, honi esker programa baten kodea era ikusgarrian erakutsiko da Blogger edozein orrietan.
 Horretarako, Blogger edozein orri editatzean HTML ikuspegia aukeratu eta zure programaren kodea marka hauen artean kokatu beharko duzu:</p>
 
-<p>ireki sinboloa <b>pre class="brush:pascal;"</b> itxi sinboloa</p>
+<p>marka irekikitzeko sinboloa <b>pre class="brush:pascal;"</b> marka ixteko sinboloa</p>
+<pre class="brush:pascal;">
 <p>Programaren Kodea</p>
-<p>ireki sinboloa <b>/pre</b> itxi sinboloa</p>
-
-
-<p><pre class="brush:pascal;"></p>
-<p>Programaren Kodea</p>
-<p></pre></p>
+</pre>
+<p>marka irekikitzeko sinboloa <b>/pre</b> marka ixteko sinboloa</p>
